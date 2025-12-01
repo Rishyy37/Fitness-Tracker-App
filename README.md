@@ -286,6 +286,6 @@ This project is open source and available under the ISC License.
 
 ## 👨‍💻 Author
 
-**Rishav Chanda**
+**Rishav Patel**
 
 Happy Tracking! 🏋️‍♂️
